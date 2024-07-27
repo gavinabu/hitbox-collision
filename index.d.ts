@@ -9,7 +9,7 @@ type BoxT = {
   y:number,
   h:number,
   w:number,
-  origin:[0,0],
+  origin:[number,number],
   r:IntRange<0,360>
 }
 export class Hitbox2D {

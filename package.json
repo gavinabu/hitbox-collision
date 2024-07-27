@@ -1,6 +1,6 @@
 {
   "name": "hitbox-collision",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that can do 2D and 3D hitbox collision. Currently only 2D works but 3D is comming soon",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/gavinabu/hitbox-collision/issues"
   },
-  "homepage": "https://github.com/gavinabu/hitbox-collision#readme"
+  "homepage": "https://github.com/gavinabu/hitbox-collision#readme",
+  "types": "./index.d.ts"
 }
