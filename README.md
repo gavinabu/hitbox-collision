@@ -5,6 +5,8 @@
 
 `$ npm install hitbox-collision`
 
+### Getting started
+
 ```javascript
 const {Hitbox2D, doTheseColide2D} = require("hitbox-collision")
 
@@ -28,7 +30,10 @@ var box = new Hitbox2D(0,0,0,[
     origin:[0,0],
     r:0
   }
+  // Add more hitboxs here
 ])
 
 console.log(doTheseColide2D(player,box)) // true
 ```
+
+From this you can expand and add as many boxes as you can.
