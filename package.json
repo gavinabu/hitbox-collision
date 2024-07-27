@@ -1,0 +1,23 @@
+{
+  "name": "hitbox-collision",
+  "version": "1.0.0",
+  "description": "A package that can do 2D and 3D hitbox collision. Currently only 2D works but 3D is comming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinabu/hitbox-collision.git"
+  },
+  "keywords": [
+    "Collision",
+    "Hitbox"
+  ],
+  "author": "Gavin Abu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavinabu/hitbox-collision/issues"
+  },
+  "homepage": "https://github.com/gavinabu/hitbox-collision#readme"
+}
